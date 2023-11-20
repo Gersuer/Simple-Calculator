@@ -1,4 +1,5 @@
 #Receive from the user the math operations
+#Desenvolver uma calculadora que permita realizar operações básicas, como adição, subtração, multiplicação e divisão.
 
 while True:
     operator = input("Type the operation that you want to do: '+'/'-'/'*'/ '/'\n ")
